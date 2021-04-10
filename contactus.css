@@ -1,0 +1,273 @@
+.logo h1{
+	color:white;
+	font-weight:bold;
+	border:0.1em solid;
+	border-color:white;
+	background:none;
+	float:left;
+	position:relative;
+	top:-20px;
+	margin-left:20px;
+    	margin-top:50px;
+    border-radius: 20px;
+
+	padding:2px 20px;
+	font-size:50px;
+	transform:scale(1,0.8);
+}
+h1{
+	font-size:70px;
+	letter-spacing:5px;
+	color:white;
+    padding-left: 500px;
+    text-decoration: underline;
+    text-decoration-color: whitesmoke;
+}
+.pages a{padding-left: 20px;
+margin-right: 15px;
+color: aliceblue
+}
+
+.first a{color: aliceblue;
+    margin: 10px;}
+body{
+	background:white;
+	
+}
+.hero-image{
+	background-image:url("img1.jpg");
+	background-position: top;
+	height:400px;
+	background-size: cover;
+	
+}
+.hero-image .start{
+	font-size:20px;
+	color:#c9b5b5;
+	margin-top:0px;
+	margin-left:90px;
+	font-weight:bold;
+	font-family:Arial Rounded MT Bold,CSS;
+}
+.start a{
+	margin-left:20px;
+}
+.logo p{
+	color:white;
+	font-weight:bold;
+	border:0.1em solid;
+	border-color:white;
+	background:none;
+	float:left;
+	position:relative;
+	top:-20px;
+	margin-left:90px;
+	padding:2px 40px;
+	font-size:50px;
+	transform:scale(1,0.8);
+}
+.top-nav{
+	background:none;
+	margin-top:55px;
+	margin-left:400px;
+	font-family:Arial Rounded MT Bold,CSS;
+}
+.top-nav a{
+	font-weight:bold;
+	color:#c9b5b5;
+	margin-left:5px;
+	margin-right:0px;
+	text-decoration:none;
+	font-size:15px;
+	padding:0 16px;
+	
+}
+.top-nav a:hover{
+	background:white;
+	color:black;
+}
+form.searchbar{
+	float:right;
+	margin-right:90px;
+}
+form.searchbar button {
+	position:relative;
+	padding:2px;
+	left:10px;
+	top:-1px;
+	background:none;
+	color:#c9b5b5;
+	font-size:12px;
+	cursor:pointer;
+	transform:scale(1.5,1);
+	font-family:Arial Rounded MT Bold,CSS;
+}
+input[type=text]{
+	background:none;
+	color:white;
+}
+.searchbar:hover{
+	background:none;
+}
+
+.hero-image .imagetext{
+	font-size:20px;
+	color:#65d875;
+	text-align:center;
+	margin-top:150px;
+	line-height:10px;
+	font-family:Arial Rounded MT Bold,CSS;
+}
+h1{
+	margin-top:20px;
+	font-size:100px;
+	letter-spacing:3px;
+	color:white;
+	font-family:Arial Rounded MT Bold,CSS;
+}
+a.link{
+	text-decoration:none;
+	margin-right:10px;
+	color:white;
+}
+a.link:hover{
+	color:#65d875;
+}
+
+
+
+
+
+h1.contact-head {
+	color:black;
+	font-size:25px;
+	margin-bottom:50px;
+    padding-right: 500px;
+}
+.columnn {
+	background:#f3f3f3;
+	float: left;
+	padding: 29px 32px 71px 109.8px;
+	height: 250px;
+	font-family:Arial Rounded MT Bold,CSS;
+	color:grey;
+}
+.roww:after{
+	content:"";
+	display:table;
+	clear:both;
+}
+.roww{
+	margin-bottom:100px;
+}
+h2.hhhh{
+	font-size:33px;
+	color:#333333;
+}
+h2.hhhh:hover{
+	color:#CCCCCC;
+	cursor:pointer;
+}
+a.mail{
+	text-decoration: underline 3px #65d875;
+	color:grey;
+	font-family:none;
+}
+a.mail:hover{
+	color:#CCCCCC;
+}
+
+input.info[type=text] {
+  width: 24%;
+  padding: 12px 20px;
+  margin: 15px 13px;
+  box-sizing: border-box;
+  border: 3px solid #ccc;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+  color:grey;
+  left:float;
+}
+
+input[type=text]:focus {
+  border: 3px solid #555;
+}
+textarea {
+  width: 50%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: white;
+  font-size: 16px;
+  resize: none;
+  margin-top:30px;
+}
+.button {
+	background-color:#65d875;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin-top: 25px;
+	margin-right:435px;
+	margin-bottom:100px;
+	cursor: pointer;
+}
+.button:hover{
+	background:#333333;
+}
+
+
+/*web project css file*/
+
+/* footer */
+.footer{
+    width: 100%;
+    height: 360px;
+    background-image: url("footer1.jpg");
+    background-size: cover;
+    background-size: 100% 100%;
+    text-align: center;
+	font-family:Arial Rounded MT,CSS;
+}
+
+
+.footer i.fa{
+  padding: 20px;
+  font-size:30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+  color:grey;
+}
+a.none{
+	text-decoration:none;
+	color:black;
+}
+a.none:hover{
+	color:#65d875;
+}
+
+.footer a.fb i.fa:hover {
+    color: #3b5998;
+}
+.footer a.insta i.fa:hover {
+    color: #3f729b ;
+}
+.footer a.twite i.fa:hover {
+	color:#00acee;
+}
+.footer a.google i.fa:hover {
+    color: #3cba54;
+}
+.footer a.rss i.fa:hover {
+    color: #ee802f ;
+}
