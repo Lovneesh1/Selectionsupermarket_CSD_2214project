@@ -18,6 +18,7 @@ function validation(){
 
     
                 if (message.value==null) alert("Please Enter Valid Message");
+                
 
     
 
